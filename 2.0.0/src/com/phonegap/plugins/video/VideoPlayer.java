@@ -39,9 +39,7 @@ public class VideoPlayer extends Plugin {
                 playVideo(args.getString(0));
                 playVideo(args.getString(0));playVideo(args.getString(0));playVideo(args.getString(0));
                 playVideo(args.getString(0));
-                playVideo(args.getString(0));
-                playVideo(args.getString(0));
-                playVideo(args.getString(0));
+
                 playVideo(args.getString(0));
                 playVideo(args.getString(0));
                 playVideo(args.getString(0));
