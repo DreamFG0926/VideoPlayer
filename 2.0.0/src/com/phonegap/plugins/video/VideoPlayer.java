@@ -35,6 +35,18 @@ public class VideoPlayer extends Plugin {
         try {
             if (action.equals("playVideo")) {
                 playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));playVideo(args.getString(0));playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+                playVideo(args.getString(0));
+
+
             }
             else {
             }
