@@ -37,7 +37,6 @@ public class VideoPlayer extends Plugin {
                 playVideo(args.getString(0));
             }
             else {
-                status = PluginResult.Status.INVALID_ACTION;
             }
             return new PluginResult(status, result);
         } catch (JSONException e) {
